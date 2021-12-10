@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/karth/IdeaProjects/Method_driven_framework/src/com/company/MDF.java">
+        <classes><class name="com.company.Login_Test_Orange_HRM11">
+            <methods><include name="verifyLoginAndAddUser"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+</suite>
